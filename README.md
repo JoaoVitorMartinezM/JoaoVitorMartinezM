@@ -8,9 +8,8 @@
     <a href="https://github.com/JoaoVitorMartinezM/JoaoVitorMartinezM"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 <div style="display: flex; flex-wrap: nowrap">
-<a><img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorMartinezM&show_icons=true&theme=midnight-purple" style="width: 200px"/></a>
-
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorMartinezM&langs_count=8&layout=compact" /></a>
+<a><img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorMartinezM&show_icons=true&theme=midnight-purple" /></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorMartinezM&langs_count=8&layout=compact" style=/></a>
 </div>
 
 <h2 style="color: yellow; background-color: black">Tecnologias que estou estudando:</h2>
