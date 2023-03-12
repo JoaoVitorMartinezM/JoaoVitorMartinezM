@@ -50,7 +50,7 @@
 
 <h2>Objetivo</h2>
 <p>Jovem estudante e amante de tecnologia,  apostando alto na área de desenvolvimento.</p>
-<p>Universitário em Sistemas de Informação na UNISUL e em aceleração de carreira <i>FullStack</i> com a DEVinHouse|Senai, com o objetivo de ingressar como desenvolvedor <i>FullStack</i> ou desenvolvimento de APIs seguras com as tecnologias citadas nesta página, mas esforçado e aprendizado rápido de novas tecnologias se necessário</p>
+<p>Universitário em Sistemas de Informação na UNISUL e em aceleração de carreira <i>FullStack</i> com a DEVinHouse|Senai, com o objetivo de ingressar como desenvolvedor <i>FullStack</i> ou desenvolvimento de APIs seguras com as tecnologias citadas nesta página, mas esforçado e aprendizado rápido de novas tecnologias se necessário.</p>
 
           
 
