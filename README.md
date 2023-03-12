@@ -33,8 +33,9 @@
 <h2>Ferramentas preferidas:</h2>
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="width: 50px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" style="width: 50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" style="width: 50px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" style="width: 50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" style="width: 50px" />
 <img src="./postman-icon-svgrepo-com.svg" style="width: 50px" />
 </div>
