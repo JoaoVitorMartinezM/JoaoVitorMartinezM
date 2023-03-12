@@ -1,10 +1,10 @@
 
 <h1> Olá! Eu sou o João Vitor Martinez.</h1>
 
-<div style="display: flex; align-items: center;">
-<img src="https://landing.unisul.br/assets/img/logo-unisul.svg" style="width: 100px; margin-right: 10px" />
+
+<img src="https://landing.unisul.br/assets/img/logo-unisul.svg" style="width: 100px; margin-right: 10px" /><br>
 <img src="./senai-logo.svg" style="width: 100px" />
-</div>
+
 
 <div >
     <a href="justdatascientist@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" style="width: 100px; height: 30px;"/></a>
