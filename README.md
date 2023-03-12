@@ -25,17 +25,20 @@
 
 <h2>Outras tecnologias:</h2>
 
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width: 50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="width: 50px" style="width: 50px"/>
+</div>
 
 <h2>Ferramentas preferidas:</h2>
 
-
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="width: 50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" style="width: 50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" style="width: 50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" style="width: 50px" />
 <img src="./postman-icon-svgrepo-com.svg" style="width: 50px" />
+</div>
           
 
 
