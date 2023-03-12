@@ -9,7 +9,7 @@
 </div>
 <div style="display: flex; flex-wrap: nowrap">
 <a><img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorMartinezM&show_icons=true&theme=midnight-purple" /></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorMartinezM&langs_count=8&layout=compact" style="width:310px"/></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorMartinezM&langs_count=8&layout=compact&theme=midnight-purple" style="width:310px"/></a>
 </div>
 
 <h2>Principais stacks:</h2>
