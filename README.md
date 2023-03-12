@@ -12,5 +12,5 @@
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorMartinezM&langs_count=8&layout=compact" style=/></a>
 </div>
 
-<h2 style="color: yellow; background-color: black">Tecnologias que estou estudando:</h2>
+<h2 style="color: yellow">Tecnologias que estou estudando:</h2>
 
